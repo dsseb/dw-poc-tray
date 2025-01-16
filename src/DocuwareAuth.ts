@@ -7,7 +7,9 @@ export type UserAuth = {
 }
 
 export type AppAuth = {
-  //OAuth app credentials
+  client_id: string
+  client_secret: string
+  account_id: string
 }
 
 // export type DocuwareAuth = TokenOperationHandlerAuth<UserAuth, AppAuth>; // No Authentication

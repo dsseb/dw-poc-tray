@@ -1,0 +1,13 @@
+{
+  "auth": {
+    "user": {
+      "access_token": "${ACCESS_TOKEN}",
+      "#dw_org": "${ORGNAME}"
+    },
+    "app": {
+        "client_id": "${CLIENT_ID}",
+        "client_secret": "${CLIENT_SECRET}",
+        "account_id": "... account_id ..."
+    }
+  }
+}
