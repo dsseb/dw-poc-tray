@@ -1,0 +1,1 @@
+{"type":"object","properties":{"include_document_trays":{"title":"Include document trays?","description":"Include document trays in the response.","type":"boolean"}},"additionalProperties":false,"required":["include_document_trays"],"$schema":"http://json-schema.org/draft-07/schema#","advanced":[]}

@@ -1,0 +1,5 @@
+{
+    "name": "get_fileCabinets",
+    "title": "Get File Cabinets", 
+    "description": "Retrieve the file cabinets from your Docuware Organization"
+}
