@@ -21,7 +21,8 @@
 	],
 	"dependencies": {
 		"@trayio/cdk-dsl": "*",
-		"@trayio/cdk-runtime": "*"
+		"@trayio/cdk-runtime": "*",
+		"dotenv": "^16.4.7"
 	},
 	"devDependencies": {
 		"@types/jest": "28.1.3",

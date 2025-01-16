@@ -2,8 +2,8 @@ const fs = require('fs');
 const path = require('path');
 require('dotenv').config();
 
-const templatePath = path.join(__dirname, 'test.ctx.template.json');
-const outputPath = path.join(__dirname, 'test.ctx.json');
+const templatePath = path.join(__dirname, 'src/test.ctx.template.json');
+const outputPath = path.join(__dirname, 'src/test.ctx.json');
 
 fs.readFile(templatePath, 'utf8', (err, data) => {
   if (err) {
